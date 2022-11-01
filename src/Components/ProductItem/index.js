@@ -115,7 +115,7 @@ const ProductItem = ({ navigation }) => {
                                         <FontAwesome style={styles.star} name='star-o' size={18} color='#e47911'/>
                                         <Text>12,045</Text>
                                     </View>
-                                    <Text style={styles.price}>from ${item?.price}</Text>
+                                    <Text style={styles.price}>fromsdasds ${item?.price}</Text>
                                     <Text style={styles.oldPrice}>${item?.price - 50}</Text>
                                     {/*<TouchableOpacity*/}
                                     {/*    activeOpacity={1}*/}
